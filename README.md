@@ -4,6 +4,7 @@
 
 ## Bước 1: Bật QMK toolbox
 <img src="https://i.imgur.com/IACbN81.png">
+
 ## Bước 2: nhấn open chọn đến file hex muốn flash vào chip Atemega32u4
 ## Bước 3: Chọn đúng ATmega32u4
 ## Bước 4: tick chọn vào ô auto-flash.
